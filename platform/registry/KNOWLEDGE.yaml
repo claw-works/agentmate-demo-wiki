@@ -1,0 +1,9 @@
+name: platform-registry
+description: AgentMate 注册面的领域知识：Skill Registry、Knowledge Registry、包身份语义与领域目录布局
+profile: platform-wiki-v1
+language: zh-CN
+citation_policy: required
+include:
+  - "raw/**"
+exclude:
+  - "raw/drafts/**"

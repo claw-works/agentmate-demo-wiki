@@ -1,0 +1,7 @@
+name: platform-retrieval
+description: AgentMate 检索面的领域知识：混合检索融合、CJK lexical 投影、embedding 配置与文档分块
+profile: platform-wiki-v1
+language: zh-CN
+citation_policy: required
+include:
+  - "raw/**"

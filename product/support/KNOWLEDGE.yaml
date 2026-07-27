@@ -1,0 +1,7 @@
+name: product-support
+description: AgentMate 使用侧的支持语料：常见问题、故障排查步骤与已知限制
+profile: support-wiki-v1
+language: zh-CN
+citation_policy: required
+include:
+  - "raw/**"
