@@ -64,6 +64,6 @@ product/                ← 领域（domain）
 - `product/support/raw/limitations.md` 与 `platform/retrieval/raw/cjk-lexical.md`
   对同一问题的表述存在**时间差**（一处仍称中文检索不可用），用于验证 lint
   能发现过期声明。
-- `platform/registry/raw/domain-layout.md` 没有任何入链，用于验证孤立页面检测。
+- `platform/registry/raw/domain-layout.md` 既无入链也无出链，用于验证孤立页面检测。
 - `product/support/raw/troubleshooting.md` 提到跨知识库的概念但不建链，
   用于确认链接图只在 package 内解析。
